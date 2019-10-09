@@ -2,7 +2,7 @@
 
 A quick space-invaders like game created with DrRacket.
 
-#####Please use last stable version "SpaceInvaders.rkt"
+##### Please use last stable version "SpaceInvaders.rkt"
 
 ### Instructions
 
