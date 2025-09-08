@@ -1,4 +1,4 @@
-# CyBeRpUnK WaRrIoRs
+# Cyberpunk Warriors
 
 A quick space-invaders like game created with DrRacket.
 
